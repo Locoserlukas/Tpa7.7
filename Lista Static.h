@@ -107,6 +107,6 @@ if (Q == NULL)
 else
 {
     free (Q);
-    return 0;
+    return 1;
 }
 }
