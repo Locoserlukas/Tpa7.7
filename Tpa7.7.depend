@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1728399897 source:c:\users\alfon\documents\c\tpa7.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista Static.h"
+
+1728400147 c:\users\alfon\documents\c\tpa7.7\lista static.h
+	<stdlib.h>
+	"Persona.h"
+
+1727792417 c:\users\alfon\documents\c\tpa7.7\persona.h
+	<string.h>
+	<stdlib.h>
+
