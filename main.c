@@ -18,4 +18,5 @@ int main()
     Forward (&Test);
     if (IsOos(Test))
     printf ("WOW");
+    printf ("WOW2");
 }
